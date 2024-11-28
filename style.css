@@ -1,0 +1,90 @@
+img {
+    height: 200px;
+    padding: 30px;
+}
+
+body {
+    background-color: #eeeeee;
+}
+
+.Cocktail {
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    background-color: #fdffff;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px #8f8f8f;
+}
+
+.Header {
+    margin-top: 0px;
+    font-family: Oswald;
+    align-items: center;
+}
+
+.ImageElement {
+    padding: 20px;
+}
+
+.Title {
+    padding-top: 20px;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: 500;
+    width: 100%;
+    height: 60px;
+}
+
+.Status {
+    font-size: 20px;
+    text-transform: uppercase;
+    font-family: Oswald;
+    height: 20px;
+}
+
+.Upper {
+    padding: 40px;
+    height: 200px;
+    display: flex
+}
+
+.Lower {
+    padding: 70px;
+    display: flex;
+}
+
+.InstructionsBox {
+    width: 60%;
+    font-family: Oswald;
+    padding-right: 20px;
+}
+
+h2 {
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.IngredientsBox {
+    padding-left: 20px;
+    border-left: 5px solid #8f8f8f;
+    width: 25%;
+    font-family: Oswald;
+}
+
+
+.MeasurementsBox {
+    width: 15%;
+    padding-top: 55px;
+    font-family: Oswald;
+    font-size: 20px;
+    text-align: right;
+}
+
+p{
+    font-size: 18px;
+}
+
